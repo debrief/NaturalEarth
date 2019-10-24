@@ -14,7 +14,7 @@
           <se:MaxScaleDenominator>7500000</se:MaxScaleDenominator>
           <se:TextSymbolizer>
             <se:Label>
-              <ogc:PropertyName>name</ogc:PropertyName>
+              <ogc:PropertyName>NAME</ogc:PropertyName>
             </se:Label>
             <se:Font>
               <se:CssParameter name="font-family">Times New Roman</se:CssParameter>
